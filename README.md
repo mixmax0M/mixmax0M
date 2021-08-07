@@ -10,13 +10,6 @@
 
 ---
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-### Spotify Playing 🎧
-[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/pdm8ropnl3uhmjddfaeip3rtp)
-
----
-
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://discord.gg/Bbxw47JAPN" target="blank"><img align="center" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" alt="discord" height="30" width="40" /></a>
