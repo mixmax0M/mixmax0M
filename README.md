@@ -9,7 +9,13 @@
 - ⚡ Fun fact: **The first computer bug was an actual bug.**
 
 ---
+
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+### Spotify Playing 🎧
+[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/pdm8ropnl3uhmjddfaeip3rtp)
+
+---
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
