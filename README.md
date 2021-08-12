@@ -5,7 +5,7 @@
 
 - 📝 I code programs for fun! Some are useful, some others are not. 😁 
 - 💬 You can ask me about anything, but I don't always know the answer
-- 📫 How to reach me: **Add me on Discord: mixmax0M#4295 [<img alt="Max | Discord" height="15px" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg"/>](https://discord.gg/Bbxw47JAPN)**
+- 📫 How to reach me: **Add me on Discord: mixmax0M#4295 | Join my Server -> [<img alt="Max | Discord" height="15px" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg"/>](https://discord.gg/Bbxw47JAPN)**
 - ⚡ Fun fact: **The first computer bug was an actual bug.**
 
 ---
