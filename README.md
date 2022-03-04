@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
-<h3 align="center">I am a Developer, GFX Desginer, Editor, Student.</h3>
+<h3 align="center">I am a Developer and Student.</h3>
 </br>
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
